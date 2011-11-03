@@ -1,0 +1,10 @@
+Package: com.mathieubolard.gkfriendsadder
+Name: GKFriendsAdder
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add ALL your Game Center recommended friends in one click!
+Maintainer: Mathieu Bolard (mattlawer) <mattlawer08@gmail.com>
+Author: Mathieu Bolard (mattlawer) <mattlawer08@gmail.com>
+Depiction: http://mathieubolard.com/mobile/depiction/gkfriendsadder.html
+Section: Tweaks
